@@ -1,1 +1,1 @@
-It is time
+This directory contains some specific shell permission commands
